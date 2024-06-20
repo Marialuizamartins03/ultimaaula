@@ -1,0 +1,45 @@
+:root {
+    font-family: Inter, sans-serif;
+    font-feature-settings: 'liga' 1, 'calt' 1; 
+  }
+  @supports (font-variation-settings: normal) {
+    :root { font-family: InterVariable, sans-serif; }
+  } 
+    
+.cabeçudo {
+    justify-content: center;
+    color: #107300;
+    font-weight: 1377px;
+    font-size: 12px;
+}
+.MERCEARIA {
+    justify-content: left;
+    color: #DC7516;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.AÇOUGUE {
+    justify-content: center;
+    color: #F119F5;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.HIGIENEPESSOAL {
+    justify-content: center;
+    color: #E73434;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.FEIRA {
+    justify-content: center;
+    color: #BECD12;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+.PRODUTOSDELIMPEZA {
+    justify-content: center;
+    color: #273DFF;
+    font-weight: 1377px;
+    font-size: 15px;
+}
+
